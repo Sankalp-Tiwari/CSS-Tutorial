@@ -1,0 +1,16 @@
+.paragraph2{
+    background-color: olivedrab;
+    color: rebeccapurple;
+}
+#red{
+    background-color: salmon;
+    color: saddlebrown; /*This is the way to write comment in CSS*/
+}
+
+footer,span{
+    background-color: rgb(18, 201, 64);
+    color: rgb(219, 156, 20);
+}
+p{
+    border: 3px solid royalblue;
+}
